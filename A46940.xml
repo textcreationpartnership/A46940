@@ -127,9 +127,12 @@
             </p>
             <pb facs="tcp:32730:2" rendition="simple:additions"/>
             <pb facs="tcp:32730:2"/>
-            <figure>
-               <head>Vera Effigies. Roberti Iohnson</head>
-            </figure>
+            <p>
+               <pb facs="tcp:32730:3"/>
+               <figure>
+                  <head>Vera Effigies. Roberti Iohnson</head>
+               </figure>
+            </p>
             <pb facs="tcp:32730:3" rendition="simple:additions"/>
             <p>
                <hi>Praxis Medicinae Reformata:</hi> OR, THE Practice of Physick REFORMED. BEING AN Epitome of the whole Art: Wherein is briefly shewed, The true Causes, Signs, Prognosticks, and Cure, of most Diseases.</p>
